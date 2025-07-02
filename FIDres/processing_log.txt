@@ -1,0 +1,50 @@
+Video Processing Started
+Using groundtruth mapping from groundtruth_results_revised_1.csv
+NOTE: FVD computation is ENABLED. Set SKIP_FVD=True to disable if errors occur.
+Starting model folder: 1
+Completed model folder: 1 with 322 videos
+Starting model folder: 2
+Completed model folder: 2 with 151 videos
+Starting model folder: 3
+Completed model folder: 3 with 191 videos
+Starting model folder: 4
+Completed model folder: 4 with 0 videos
+Starting model folder: 4-mp4
+Completed model folder: 4-mp4 with 19 videos
+Starting model folder: 5
+Completed model folder: 5 with 86 videos
+Starting model folder: 6
+Completed model folder: 6 with 25 videos
+Starting face videos for model: 1
+Completed face videos for model: 1 with 284 videos
+Starting face videos for model: 2
+Completed face videos for model: 2 with 114 videos
+Starting face videos for model: 3
+Completed face videos for model: 3 with 135 videos
+Starting face videos for model: 4
+Completed face videos for model: 4 with 9 videos
+Starting face videos for model: 4-mp4
+Completed face videos for model: 4-mp4 with 9 videos
+Starting face videos for model: 5
+Completed face videos for model: 5 with 95 videos
+Starting face videos for model: 6
+Completed face videos for model: 6 with 0 videos
+Starting hand videos for model: 1
+Completed hand videos for model: 1 with 252 videos
+Starting hand videos for model: 2
+Completed hand videos for model: 2 with 55 videos
+Starting hand videos for model: 3
+Completed hand videos for model: 3 with 79 videos
+Starting hand videos for model: 4
+Completed hand videos for model: 4 with 4 videos
+Starting hand videos for model: 4-mp4
+Completed hand videos for model: 4-mp4 with 4 videos
+Starting hand videos for model: 5
+Completed hand videos for model: 5 with 45 videos
+Starting hand videos for model: 6
+Completed hand videos for model: 6 with 0 videos
+
+Total unmatched videos excluded from processing: 1015
+
+Processing completed!
+No errors encountered.
