@@ -57,7 +57,7 @@ Six dimensions of subjective evaluation:
 - Imaging Quality
 
 ## 🚀 Getting Started
-- [✅] To apply for dataset downloads for academic research purposes only, please email <a href="mailto:deepreasoninggo@gmail.com">deepreasoninggo@gmail.com</a>
+- [✅] To apply for dataset downloads for academic research purposes only, please email <a href="mailto:deepreasoninggo@gmail.com">deepreasoninggo@gmail.com</a> **and** <a href="https://drive.google.com/file/d/1BbnmMJcqu7uaJngu7pmg8UkeVNSRVPqg/view?usp=sharing" target="_blank" rel="noopener noreferrer">fill out this form</a>.  
 ### Installation
 
 This benchmark uses MMPose for keypoint detection. For detailed installation instructions, please refer to the [MMPose installation guide](https://mmpose.readthedocs.io/en/latest/installation.html).
